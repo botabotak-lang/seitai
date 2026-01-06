@@ -12,7 +12,7 @@ export const Hero = () => {
       */}
       <div className="w-full relative">
         <img
-          src="/img/FV.jpg"
+          src="/img/FV.svg?v=1"
           alt="藤枝AI整体院 ファーストビュー"
           className="w-full h-auto block"
         />
